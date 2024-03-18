@@ -1,0 +1,101 @@
+selection,odds,probability,ratings,league,hometeam,awayteam,date,time,rate
+Tottenham,1.27,88,4,England Premier League,Tottenham,Luton,30 Mar,15:00,15/17
+Chelsea,1.33,92,5,England Premier League,Chelsea,Burnley,30 Mar,15:00,11/12
+UTA Arad,1.9,73,4,Romania Liga I,UTA,Voluntari,Today,15:30,8/11
+Liverpool,1.36,80,3,England Premier League,Liverpool,Brighton,31 Mar,14:00,8/10
+Poland,1.18,70,0,Euro Qualifiers,Poland,Estonia,21 Mar,19:45,7/10
+Stockport,1.95,60,2,England League Two,Crawley,Stockport,Today,19:45,6/10
+FC Andorra,1.8,63,2,Spain Segunda,FC,Amorebieta,Today,19:30,5/8
+Newcastle,1.8,71,3,England Premier League,Newcastle,Ham,30 Mar,12:30,5/7
+Fulham,1.75,83,5,England Premier League,Sheff,Fulham,30 Mar,15:00,5/6
+Georgia,1.91,83,5,Euro Qualifiers,Georgia,Luxembourg,21 Mar,17:00,5/6
+Petrolul Ploiesti,2.15,83,5,Romania Liga I,Petrolul,1948,Today,18:30,5/6
+Barnet,1.33,83,3,England National League,Barnet,Eastleigh,Tomorrow,19:45,5/6
+Aston Villa,1.62,57,0,England Premier League,Aston,Wolverhampton,30 Mar,17:30,4/7
+Man Utd,2.3,57,0,England Premier League,Brentford,Utd,30 Mar,20:00,4/7
+Draw,3.2,67,0,Portugal Segunda Liga,Vilaverdense,Belenenses,Today,20:15,4/6
+Man City,1.8,67,0,England Premier League,Man,Arsenal,31 Mar,16:30,4/6
+USA,1.25,100,0,Copa America,USA,Bolivia,23 Jun,23:00,4/4
+Leicester,1.75,100,0,England Championship,Bristol,Leicester,29 Mar,12:30,4/4
+Barcelona,1.29,60,0,Spain Primera Liga,Barcelona,Palmas,30 Mar,20:00,3/5
+Everton,3.3,33,0,England Premier League,Bournemouth,Everton,30 Mar,15:00,2/6
+Nottm Forest,2.25,40,0,England Premier League,Nottm,Palace,30 Mar,15:00,2/5
+Kazakhstan,10,40,0,Euro Qualifiers,Greece,Kazakhstan,21 Mar,19:45,2/5
+Bradford,1.95,50,0,England League Two,Bradford,County,Tomorrow,19:45,2/4
+Alloa,2.25,67,0,Scotland League One,Kelty,Alloa,Tomorrow,19:45,2/3
+Panathinaikos,2.25,67,0,Greece Super League 1,Panathinaikos,Salonika,31 Mar,16:00,2/3
+Finland,4.6,67,0,Euro Qualifiers,Wales,Finland,21 Mar,19:45,2/3
+Norwich,1.45,100,0,England Championship,Norwich,Plymouth,29 Mar,15:00,2/2
+Belgium,1.62,100,0,Euro 2020,Belgium,Slovakia,17 Jun,17:00,2/2
+Mansfield,1.44,100,0,England League Two,Mansfield,Colchester,23 Mar,12:30,2/2
+AEK Athens,1.91,100,0,Greece Super League 1,AEK,Olympiakos,31 Mar,18:30,2/2
+FC Den Bosch,3.5,100,0,Netherlands Eerste Divisie,Maastricht,Bosch,23 Mar,19:00,2/2
+Celtic,1.2,100,0,Scotland Premiership,Livingston,Celtic,31 Mar,12:00,2/2
+Atletico Madrid,1.9,100,0,Champions League,Atletico,Dortmund,09 Apr,20:00,2/2
+Wrexham,1.95,100,0,England League Two,Grimsby,Wrexham,23 Mar,15:00,2/2
+Ecuador,1.85,100,0,Copa America,Ecuador,Venezuela,22 Jun,23:00,2/2
+Hibernian,9.5,25,0,Scotland Premiership,Rangers,Hibernian,30 Mar,15:00,1/4
+Iceland,3.4,25,0,Euro Qualifiers,Israel,Iceland,21 Mar,19:45,1/4
+Bosnia Herzegovina,3.75,25,0,Euro Qualifiers,Bosnia,Ukraine,21 Mar,19:45,1/4
+Colombia,1.83,50,0,Copa America,Colombia,Paraguay,24 Jun,23:00,1/2
+Italy,1.38,50,0,Euro 2020,Italy,Albania,15 Jun,20:00,1/2
+Millwall,3.1,50,0,England Championship,Millwall,Brom,29 Mar,13:00,1/2
+Slovenia,4.5,50,0,Euro 2020,Slovenia,Denmark,16 Jun,17:00,1/2
+Derby,1.73,50,0,England League One,Northampton,Derby,23 Mar,15:00,1/2
+Montenegro,2.25,50,0,International,Belarus,Montenegro,21 Mar,18:00,1/2
+Draw,3.6,50,0,England National League,Halifax,Chesterfield,20 Mar,19:45,1/2
+Draw,3.75,50,0,Champions League,Real,City,09 Apr,20:00,1/2
+Sevilla,3,50,0,Spain Primera Liga,Getafe,Sevilla,30 Mar,13:00,1/2
+Yes,1.7,100,0,Champions League,Arsenal,Munich,09 Apr,20:00,1/1
+Barnet,1.42,100,0,England National League,Barnet,Dorking,23 Mar,15:00,1/1
+AC Milan,2.2,100,0,Europa League,AC,Roma,11 Apr,20:00,1/1
+Stockport,1.73,100,0,England League Two,Stockport,Dons,23 Mar,17:15,1/1
+Eintracht Frankfurt,1.95,100,0,Germany Bundesliga I,Eintracht,Berlin,30 Mar,14:30,1/1
+Switzerland,2.38,100,0,Euro 2020,Hungary,Switzerland,15 Jun,14:00,1/1
+Draw,3.4,100,0,Spain Primera Liga,Almeria,Osasuna,30 Mar,15:15,1/1
+Stevenage,1.85,100,0,England League One,Carlisle,Stevenage,23 Mar,15:00,1/1
+Switzerland,3.75,100,0,International,Denmark,Switzerland,23 Mar,19:00,1/1
+Serbia,6,100,0,Euro 2020,Serbia,England,16 Jun,20:00,1/1
+Tranmere,2,100,0,England League Two,Tranmere,Town,23 Mar,15:00,1/1
+Atletico Madrid,2.1,100,0,Spain Primera Liga,Villarreal,Madrid,01 Apr,20:00,1/1
+Draw #0-0,11,100,0,Italy Serie A,Sassuolo,Udinese,01 Apr,14:00,1/1
+Cape Verde,1.4,100,0,International,Cape,Guyana,21 Mar,19:00,1/1
+Brisbane Roar +0.25,2.05,100,0,Australia A League,Wellington,Roar,31 Mar,00:00,1/1
+Western United FC +0.50,1.99,100,0,Australia A League,Adelaide,FC,29 Mar,08:45,1/1
+Leeds,1.62,100,0,England Championship,Watford,Leeds,29 Mar,20:00,1/1
+Ipswich,1.91,100,0,England Championship,Blackburn,Ipswich,29 Mar,17:30,1/1
+Bayer Leverkusen,1.3,100,0,Germany Bundesliga I,Bayer,Hoffenheim,30 Mar,14:30,1/1
+Draw #0-0,11,100,0,International,England,Brazil,23 Mar,19:00,1/1
+Germany,4.75,100,0,International,France,Germany,23 Mar,20:00,1/1
+Lamia,6,100,0,Greece Super League 1,Aris,Lamia,31 Mar,18:30,1/1
+Swansea,3,100,0,England Championship,Sheff,Swansea,29 Mar,15:00,1/1
+Draw,4.2,100,0,Sweden Allsvenskan,BK,AIF,31 Mar,15:30,1/1
+Napoli,2.1,100,0,Italy Serie A,Napoli,Atalanta,30 Mar,11:30,1/1
+Malmo FF,1.57,100,0,Sweden Allsvenskan,IFK,FF,30 Mar,14:00,1/1
+Preston,1.5,100,0,England Championship,Preston,Rotherham,29 Mar,15:00,1/1
+Liverpool,1.36,100,0,Europa League,Liverpool,Atalanta,11 Apr,20:00,1/1
+Cadiz & No,3.25,100,0,Spain Primera Liga,Cadiz,Granada,29 Mar,20:00,1/1
+Cyprus,2,100,0,International,Cyprus,Latvia,21 Mar,17:00,1/1
+Northampton,4.5,100,0,England League One,Reading,Northampton,29 Mar,15:00,1/1
+Aberdeen,1.78,100,0,Scotland Premiership,Aberdeen,County,30 Mar,15:00,1/1
+West Ham,6,100,0,Europa League,Bayer,Ham,11 Apr,20:00,1/1
+Chengdu Rongcheng,1.29,100,0,China CSL,Chengdu,Zhiyun,30 Mar,11:00,1/1
+Croatia,5.25,100,0,Euro 2020,Spain,Croatia,15 Jun,17:00,1/1
+Over +2.50,1.75,100,0,MLS,New,CF,23 Mar,18:00,1/1
+Rep of Ireland,4.33,100,0,International,Rep,Belgium,23 Mar,17:00,1/1
+Draw #0-0,11,100,0,Italy Serie A,Lecce,Roma,01 Apr,17:00,1/1
+Salford City,4,100,0,England League Two,Notts,City,23 Mar,15:00,1/1
+Real Sociedad,2.4,100,0,Spain Primera Liga,CD,Sociedad,31 Mar,17:30,1/1
+Scotland,9,100,0,International,Netherlands,Scotland,22 Mar,19:45,1/1
+Draw #0-0,15,100,0,Champions League,PSG,Barcelona,09 Apr,20:00,1/1
+SCR Altach,3.1,100,0,Austria Bundesliga,Wolfsberger,Altach,30 Mar,16:00,1/1
+Draw #0-0,7,100,0,Spain Primera Liga,Valencia,Mallorca,30 Mar,17:30,1/1
+Sweden,8,100,0,International,Portugal,Sweden,21 Mar,19:45,1/1
+Bayern Munich - Bayern Munich,2.15,100,0,Germany Bundesliga I,Bayern,Dortmund,30 Mar,17:30,1/1
+Hull,1.85,100,0,England Championship,Hull,Stoke,29 Mar,15:00,1/1
+Shanghai Port,1.29,100,0,China CSL,Shanghai,Henan,30 Mar,12:00,1/1
+Man City,1.57,100,0,England FA Cup,Man,Chelsea,20 Apr,15:00,1/1
+Celta Vigo,2.05,100,0,Spain Primera Liga,Celta,Vallecano,31 Mar,13:00,1/1
+Frosinone,4.1,100,0,Italy Serie A,Genoa,Frosinone,30 Mar,14:00,1/1
+Southampton,1.57,100,0,England Championship,Southampton,Middlesbrough,29 Mar,15:00,1/1
+Under +2.50,2.15,100,0,UEFA Europa Conference League,Aston,Lille,11 Apr,20:00,1/1
